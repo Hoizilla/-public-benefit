@@ -7,4 +7,4 @@
 
 ## 这个是 @@bcdlxb  赞助给Pharos的vps服务器生成的公益ssr节点 为期一年 2019年12月11日过期
 
-![2019年11月11日过期](https://raw.githubusercontent.com/PharosVip/-public-benefit/master/resource/2019.11.12失效.png)
+![2019年11月11日过期](https://raw.githubusercontent.com/PharosVip/-public-benefit/master/2019.11.12失效.png)
