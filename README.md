@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/PharosVip/-public-benefit/master/temple.txt
 
 ### 如何使用订阅
 复制链接,进入Pharos 点击 sure 或者 其他任意支持订阅功能的软件中按照对应流程操作即可
-![use it](https://raw.githubusercontent.com/PharosVip/-public-benefit/master/resource/howtouse.jpg)
+![useit](https://raw.githubusercontent.com/PharosVip/-public-benefit/master/resource/howtouse.jpg)
 
 
 
